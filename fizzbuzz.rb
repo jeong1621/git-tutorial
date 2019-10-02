@@ -1,3 +1,6 @@
+#  written by j1621
+#      2019/10/02
+
 #! /usr/bin/env ruby
 
 (1..100).each{|i|
